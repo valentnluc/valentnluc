@@ -7,8 +7,8 @@
 
 ✨I am a curious person who discovered in data analysis a new way to discover knowledge that is not obvious to the naked eye. I am working on projects that I find interesting and allow me to apply my knowledge. Working on growing.
 
-
-- 📚 I work everyday with:  `.py` `.pbix` `.xlsx` `.gsgeet` `.csv`
+- 👀 Looking for challenging problems.
+- 📚 I work everyday with:  `.py` `.pbix` `.sql` `.xlsx` `.gsgeet` `.csv`
 - 📫 How to reach me: [@valentnluc](https://twitter.com/ValentnLuc)
 - ⚡ Fun fact: Best pizza in town.
 
